@@ -36,7 +36,7 @@ TypeScript is a powerful superset of JavaScript that adds optional static typing
 
 ### Setup:
 
-1. Clone or download the project
+1. Clone or download the project this or get ssame project from this github (https://github.com/ortoniKC/Playwright_Cucumber_TS)
 2. Extract and open in the VS-Code
 3. `npm i` to install the dependencies
 4. `npx playwright install` to install the browsers
